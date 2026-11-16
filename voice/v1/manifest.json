@@ -1,0 +1,77 @@
+{
+  "version": 1,
+  "packs": [
+    {
+      "lang": "zh-Hant",
+      "file": "zh-Hant.lcpack",
+      "bytes": 5079059,
+      "sha256": "ec32e5337ca20ae90c851139f061cffd03a31991101a0fbfcb92e67c08055962",
+      "lines": 102,
+      "build": 1
+    },
+    {
+      "lang": "zh-Hans",
+      "file": "zh-Hans.lcpack",
+      "bytes": 5000484,
+      "sha256": "32a0f1b2f766fe47cbc377e60e477a94f11d57c8536b9a7e77a79e5cf1d2d4e2",
+      "lines": 102,
+      "build": 1
+    },
+    {
+      "lang": "en",
+      "file": "en.lcpack",
+      "bytes": 5464283,
+      "sha256": "59665f7d1a3f99fa029be3f21e01bffcb06da66d29c4aa3eb5a3321c25474b78",
+      "lines": 102,
+      "build": 1
+    },
+    {
+      "lang": "ja",
+      "file": "ja.lcpack",
+      "bytes": 6039044,
+      "sha256": "092aa6d65a12b8255ad85814aeebbede69d710bd5837668b5d95601cc2480773",
+      "lines": 102,
+      "build": 1
+    },
+    {
+      "lang": "ko",
+      "file": "ko.lcpack",
+      "bytes": 6240748,
+      "sha256": "eb38968265fd93120a911546bb65140123dddfd0c9a34352395a6c0633731572",
+      "lines": 102,
+      "build": 1
+    },
+    {
+      "lang": "es",
+      "file": "es.lcpack",
+      "bytes": 5605449,
+      "sha256": "f548c7b528e00569de7d2aee45a7679046c6bed3dca3b4c836fa567287639d54",
+      "lines": 102,
+      "build": 1
+    },
+    {
+      "lang": "de",
+      "file": "de.lcpack",
+      "bytes": 5614260,
+      "sha256": "49eb2e42965edef24554cde7165b2e13a2a70a912a3887722d81c351ee036b58",
+      "lines": 102,
+      "build": 1
+    },
+    {
+      "lang": "fr",
+      "file": "fr.lcpack",
+      "bytes": 5390785,
+      "sha256": "0cb431284f63bd4eef882eb0a271b0521faaa1b194c5a67962d87a15a402ddaf",
+      "lines": 102,
+      "build": 1
+    },
+    {
+      "lang": "pt-BR",
+      "file": "pt-BR.lcpack",
+      "bytes": 5790785,
+      "sha256": "7993e7968625582c08ed00d20bff93d3359c707fc92e3d68fa2ef2040b3b1d0f",
+      "lines": 102,
+      "build": 1
+    }
+  ]
+}
