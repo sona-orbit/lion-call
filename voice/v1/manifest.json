@@ -4,74 +4,74 @@
     {
       "lang": "zh-Hant",
       "file": "zh-Hant.lcpack",
-      "bytes": 5079059,
-      "sha256": "ec32e5337ca20ae90c851139f061cffd03a31991101a0fbfcb92e67c08055962",
-      "lines": 102,
-      "build": 1
+      "bytes": 16354190,
+      "sha256": "80ff0d392534389b71dc71fd18c293843e3160968b13c0f66d3b47b1490e2e5b",
+      "lines": 309,
+      "build": 2
     },
     {
       "lang": "zh-Hans",
       "file": "zh-Hans.lcpack",
-      "bytes": 5000484,
-      "sha256": "32a0f1b2f766fe47cbc377e60e477a94f11d57c8536b9a7e77a79e5cf1d2d4e2",
-      "lines": 102,
-      "build": 1
+      "bytes": 15910776,
+      "sha256": "33fc7b8e324a0fcd0de40b9d4a0bb07cd688b1f011c84d0375310686384b417f",
+      "lines": 309,
+      "build": 2
     },
     {
       "lang": "en",
       "file": "en.lcpack",
-      "bytes": 5464283,
-      "sha256": "59665f7d1a3f99fa029be3f21e01bffcb06da66d29c4aa3eb5a3321c25474b78",
-      "lines": 102,
-      "build": 1
+      "bytes": 18187209,
+      "sha256": "8c0817ae8cff9e865cb4c8613eb2565e937d646723fb0969c1fee83039cb5b90",
+      "lines": 309,
+      "build": 2
     },
     {
       "lang": "ja",
       "file": "ja.lcpack",
-      "bytes": 6039044,
-      "sha256": "092aa6d65a12b8255ad85814aeebbede69d710bd5837668b5d95601cc2480773",
-      "lines": 102,
-      "build": 1
+      "bytes": 19524084,
+      "sha256": "2026c668027454fed4d7328b09f7e2897b43520293f26a26272ee9785f269683",
+      "lines": 309,
+      "build": 2
     },
     {
       "lang": "ko",
       "file": "ko.lcpack",
-      "bytes": 6240748,
-      "sha256": "eb38968265fd93120a911546bb65140123dddfd0c9a34352395a6c0633731572",
-      "lines": 102,
-      "build": 1
+      "bytes": 19766037,
+      "sha256": "8f4633ef95a2b1e23cd7e759a53d73b7b43b00ef5b4a9d428f9d24bc76fcbc34",
+      "lines": 309,
+      "build": 2
     },
     {
       "lang": "es",
       "file": "es.lcpack",
-      "bytes": 5605449,
-      "sha256": "f548c7b528e00569de7d2aee45a7679046c6bed3dca3b4c836fa567287639d54",
-      "lines": 102,
-      "build": 1
+      "bytes": 18235384,
+      "sha256": "66a36b8403c677148655991592e53a39f9d5e7637bf1995b44171e01bdaf05cf",
+      "lines": 309,
+      "build": 2
     },
     {
       "lang": "de",
       "file": "de.lcpack",
-      "bytes": 5614260,
-      "sha256": "49eb2e42965edef24554cde7165b2e13a2a70a912a3887722d81c351ee036b58",
-      "lines": 102,
-      "build": 1
+      "bytes": 18133995,
+      "sha256": "8dfc33c89fd19d5622283cea0f3fd2b92b507540b0566f9c29a4d6f04dfda736",
+      "lines": 309,
+      "build": 2
     },
     {
       "lang": "fr",
       "file": "fr.lcpack",
-      "bytes": 5390785,
-      "sha256": "0cb431284f63bd4eef882eb0a271b0521faaa1b194c5a67962d87a15a402ddaf",
-      "lines": 102,
-      "build": 1
+      "bytes": 17601607,
+      "sha256": "ea88c5cef8b2f2378c8d9bee99582732788a6af7cf167361a820b770febaffaa",
+      "lines": 309,
+      "build": 2
     },
     {
       "lang": "pt-BR",
       "file": "pt-BR.lcpack",
-      "bytes": 5790785,
-      "sha256": "7993e7968625582c08ed00d20bff93d3359c707fc92e3d68fa2ef2040b3b1d0f",
-      "lines": 102,
-      "build": 1
+      "bytes": 19238181,
+      "sha256": "679e8bee7d2b522641ea76c6d3740b38150ea1ee3c5e2e79aab101c0dd2695c3",
+      "lines": 309,
+      "build": 2
     }
   ]
 }
