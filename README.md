@@ -2,10 +2,10 @@
 
 Website for **Lion on the Line**, an iPhone and iPad app for parents: pick a character from the animal village
 and an everyday task, and the character calls your child to ask for help. Each time the child does it,
-the parent taps once and the character cheers. Works on one phone, or on two devices on the same Wi-Fi.
+the parent marks it and the character cheers. Works on one phone, or on two devices on the same Wi-Fi.
 
 Served by GitHub Pages at https://sona-orbit.github.io/lion-call/
 
-- Home, privacy and support pages in English and 繁體中文
+- Home, privacy and support pages in nine languages: English, 繁體中文, 简体中文, 日本語, 한국어, Español, Deutsch, Français, Português (Brasil)
 - Static HTML and CSS, no build step on this repository
 - Published by Sona Orbit. Issues and pull requests are turned off; to report a problem, use "report a problem" in the app's Settings.
